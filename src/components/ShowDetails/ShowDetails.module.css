@@ -1,0 +1,28 @@
+.section {
+  position: relative;
+  top: -30px;
+  z-index: 30;
+  background-color: white;
+  /* border: 1px solid #333; */
+  box-shadow: 0 0 10px rgb(224, 226, 226);
+  border-radius: 10px 10px 0 0;
+  padding: 1.2rem;
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); */
+}
+
+.article {
+  margin-top: 1.5rem;
+}
+
+.title {
+  font-size: 1.2rem !important;
+  font-weight: 600 !important;
+}
+
+.cast {
+  padding: 0.7rem;
+  /* box-shadow: 0 0 10px rgb(224, 226, 226); */
+}
+.castName {
+  font-size: 1rem !important;
+}

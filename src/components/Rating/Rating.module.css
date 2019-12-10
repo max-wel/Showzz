@@ -1,0 +1,16 @@
+.rating {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.ratingStar {
+  color: rgb(254, 185, 20);
+  margin-right: 0.2rem;
+  font-size: 1rem;
+}
+
+.ratingText {
+  font-weight: 600;
+  margin-left: 0.2rem;
+}
